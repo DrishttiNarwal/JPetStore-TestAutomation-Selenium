@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-24T12:47:16 IST" name="Default suite" finished-at="2025-04-24T12:47:44 IST" duration-ms="28016">
+    <groups>
+    </groups>
+    <test started-at="2025-04-24T12:47:16 IST" name="Default test" finished-at="2025-04-24T12:47:44 IST" duration-ms="28016">
+      <class name="MavenTestNG.MavenTestNG.STT_Final_Demo">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:MavenTestNG.MavenTestNG.STT_Final_Demo@3d34d211]" started-at="2025-04-24T12:47:16 IST" name="beforeClass" finished-at="2025-04-24T12:47:22 IST" duration-ms="5769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:MavenTestNG.MavenTestNG.STT_Final_Demo@3d34d211]" started-at="2025-04-24T12:47:22 IST" name="f" data-provider="loginDataFinal" finished-at="2025-04-24T12:47:40 IST" duration-ms="18028" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:MavenTestNG.MavenTestNG.STT_Final_Demo@3d34d211]" started-at="2025-04-24T12:47:40 IST" name="afterClass" finished-at="2025-04-24T12:47:44 IST" duration-ms="4144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- MavenTestNG.MavenTestNG.STT_Final_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
